@@ -1,0 +1,40 @@
+====== RELATÓRIO GERAL DA INDÚSTRIA ======
+
+🔹 Funcionários do Setor 1:
+   ID: 1   | Nome: Lucas Dos Santos Crispim  | Setor: Logística
+   ID: 6   | Nome: Fernanda Lima Rocha       | Setor: Logística
+   ID: 11  | Nome: Gabriel Dias Silva        | Setor: Logística
+   ID: 16  | Nome: Aline Cardoso Costa       | Setor: Logística
+
+🔹 Produções em 2025-06-20:
+   Produção [ID=20, Data=2025-06-20, Quantidade=210, Produto=N/A, Funcionário=N/A]
+
+🔹 Produtos produzidos pelo Funcionário ID 1:
+   ID: 1   | Produto: Caderno              | Descrição: Caderno espiral de 100 folhas, capa dura
+
+🔹 Funcionários, Setores e Produções:
+   Lucas | Logística | 100 unidades em 2025-06-01
+   Fernanda | Logística | 90 unidades em 2025-06-06
+   Gabriel | Logística | 160 unidades em 2025-06-11
+   Aline | Logística | 250 unidades em 2025-06-16
+   Ana | Recursos Humanos | 150 unidades em 2025-06-02
+   Pedro | Recursos Humanos | 110 unidades em 2025-06-07
+   Cláudia | Recursos Humanos | 180 unidades em 2025-06-12
+   Tiago | Recursos Humanos | 230 unidades em 2025-06-17
+   Carlos | Tecnologia | 200 unidades em 2025-06-03
+   Juliana | Tecnologia | 130 unidades em 2025-06-08
+   Felipe | Tecnologia | 150 unidades em 2025-06-13
+   Luciana | Tecnologia | 190 unidades em 2025-06-18
+   Mariana | Financeiro | 120 unidades em 2025-06-04
+   Ricardo | Financeiro | 140 unidades em 2025-06-09
+   Isabela | Financeiro | 200 unidades em 2025-06-14
+   Ricardo | Financeiro | 170 unidades em 2025-06-19
+   João | Marketing | 80 unidades em 2025-06-05
+   Patrícia | Marketing | 170 unidades em 2025-06-10
+   Vinícius | Marketing | 220 unidades em 2025-06-15
+   Sofia | Marketing | 210 unidades em 2025-06-20
+
+🔹 Detalhes da produção em 2025-06-20:
+   Funcionário: Sofia | Setor: Marketing | Quantidade: 210
+
+====== FIM DO RELATÓRIO ======
