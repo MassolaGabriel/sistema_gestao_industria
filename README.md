@@ -2,7 +2,7 @@
 # **Sistema de Gestão Industrial**
 
 ## **1. Visão Geral** 🗺️
-O Sistema de Gestão Industrial é uma aplicação de consola desenvolvida em Java, projetada para gerir as operações fundamentais de uma pequena indústria. O sistema utiliza uma arquitetura em camadas e conecta-se a um banco de dados MySQL para persistir os dados, permitindo a gestão de setores, funcionários, produtos e registos de produção de forma integrada.
+O Sistema de Gestão Industrial é uma aplicação de console desenvolvida em Java, projetada para gerir as operações fundamentais de uma pequena indústria. O sistema utiliza uma arquitetura em camadas e conecta-se a um banco de dados MySQL para persistir os dados, permitindo a gestão de setores, funcionários, produtos e registos de produção de forma integrada.
 
 ---
 
